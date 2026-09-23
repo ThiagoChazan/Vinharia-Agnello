@@ -26,8 +26,8 @@ h1 {
 }
 
 .container {
-    height: 890px;
-    display: flex;
+    height: 900px;
+    display: block;
     justify-content: center;
     align-items: center;
 
