@@ -11,6 +11,6 @@ var numb4 = prompt('Digite a quantidade em estoque:');
 alert('Cadastro realizado! Veja os detalhes no console');
 
 console.log('Vinho:', numb);
-console.log('Vinho:', numb2);
-console.log('Vinho:', numb3);
-console.log('Vinho:', numb4);
+console.log('Tipo:', numb2);
+console.log('Safra:', numb3);
+console.log('Quantidade:', numb4);
